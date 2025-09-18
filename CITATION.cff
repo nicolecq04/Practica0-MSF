@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB; SPYDER
+message: lenguaje m; python
+type: software
+authors:
+  - given-names: Nicole Zoe
+    family-names: Camacho Quezada
+    email: L222117472@tectijuana.edu.mx
+    affiliation: TecNM / ITT
+repository-code: 'https://github.com/nicolecq04/Practica0-MSF'
+keywords:
+  - 'Circuito RLC '
+  - Controlador PID
+  - Modelo matemático
+  - Sistema respiratorio
+  - Simulaciones numéricas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-09-17'
